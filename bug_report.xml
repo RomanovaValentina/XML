@@ -1,1 +1,9 @@
-
+<bug_report> 
+       <ID Bug> bug numbe </ID Bug> 
+       <Bug Summary> short description </Bug Summary>
+       <Severity> seriousness </Severity>
+       <Steps to reproduce> steps to play </Steps to reproduce>
+       <Actual Result> The observable or generated behavior of a component or system during testing </Actual Result>
+       <Expected Result> what we expect to get after performing certain actions in the corresponding step </Expected Result>
+       <attachment> foto,video,screenshot </attachment> 
+</bug_report> 
