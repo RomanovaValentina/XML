@@ -1,9 +1,12 @@
 <bug_report> 
-       <ID Bug> bug numbe </ID Bug> 
-       <Bug Summary> short description </Bug Summary>
-       <Severity> seriousness </Severity>
-       <Steps to reproduce> steps to play </Steps to reproduce>
-       <Actual Result> The observable or generated behavior of a component or system during testing </Actual Result>
-       <Expected Result> what we expect to get after performing certain actions in the corresponding step </Expected Result>
+       <ID Bug> B-514 </ID Bug> 
+       <Bug Summary> On the main site when hovering in italics on the "start" button, the color is white </Bug Summary>
+       <Severity> Trivial </Severity>
+       <Priority> low </Priority>
+       <Author> Romanova Valentina </Author> 
+       <Steps to reproduce> hover over the "start" button </Steps to reproduce>
+       <OC> Chrome Версия 97.0.4692.71 </OC>
+       <Actual Result> button "start" is white </Actual Result>
+       <Expected Result>  button "start" is blue </Expected Result>
        <attachment> foto,video,screenshot </attachment> 
 </bug_report> 
