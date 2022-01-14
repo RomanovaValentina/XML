@@ -1,4 +1,5 @@
 <bug_report> 
+       
        <ID Bug> B-514 </ID Bug> 
        <Bug Summary> On the main site when hovering in italics on the "start" button, the color is white </Bug Summary>
        <Severity> Trivial </Severity>
@@ -9,4 +10,5 @@
        <Actual Result> button "start" is white </Actual Result>
        <Expected Result>  button "start" is blue </Expected Result>
        <attachment> foto,video,screenshot </attachment> 
+       
 </bug_report> 
